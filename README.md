@@ -8,8 +8,7 @@ The Power BI dashboard will offer drill-down capabilities, enabling users to del
 
 Live Link:https://1drv.ms/u/c/e827518353af39cd/EYIB-BoAPJZOjS8aBsaKQywBm8uYBpuWX4uIMWFtMGfstg?e=jIEBdD
 
-![amazon dash_1](https://github.com/jharajni/Amazon_Dashboard/assets/91691412/0bebfb27-84b7-439e-8227-d4d0d772cf8f)
-
-
+![amazon dash_01](https://github.com/jharajni/Amazon_Dashboard/assets/91691412/edc52e70-7c4a-4492-8f21-fc7ff9ecf06d)
 The Power BI dashboard offers a comprehensive view of Amazon's sales insights from 2012 to 2015. It showcases key performance indicators, return dates, sales projections, and product units. Additionally, it identifies the top 10 profitable customers, top 5 profitable products, and bottom 5 products. Sales by segment and market breakdowns provide actionable insights for strategic decision-making within a visually engaging interface.
+
 
