@@ -11,4 +11,7 @@ Live Link:https://1drv.ms/u/c/e827518353af39cd/EYIB-BoAPJZOjS8aBsaKQywBm8uYBpuWX
 ![amazon dash_01](https://github.com/jharajni/Amazon_Dashboard/assets/91691412/edc52e70-7c4a-4492-8f21-fc7ff9ecf06d)
 The Power BI dashboard offers a comprehensive view of Amazon's sales insights from 2012 to 2015. It showcases key performance indicators, return dates, sales projections, and product units. Additionally, it identifies the top 10 profitable customers, top 5 profitable products, and bottom 5 products. Sales by segment and market breakdowns provide actionable insights for strategic decision-making within a visually engaging interface.
 
+![amazon dash_2](https://github.com/jharajni/Amazon_Dashboard/assets/91691412/145cbd3d-fc94-4721-bc47-f79952d86f0d)
+The Power BI dashboard presents Amazon's sales insights for 2015, offering a detailed overview of key metrics including KPIs, return dates, sales projections, and product units. It highlights the top 10 most profitable customers and identifies the top 5 profitable products, along with the bottom 5. Furthermore, the dashboard provides sales breakdowns by segment and market, enabling focused analysis for strategic decision-making within a visually intuitive interface.
+
 
